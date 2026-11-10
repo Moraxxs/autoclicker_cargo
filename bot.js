@@ -1,4 +1,3 @@
-// Слот-вочер с авто-броней для cgr.qoldau.kz
 (() => {
   if (window.__slotWatcher) { window.__slotWatcher.show(); return; }
 
